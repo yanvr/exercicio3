@@ -1,0 +1,6 @@
+@Lista3_Crud.API_HostAddress = http://localhost:5273
+
+GET {{Lista3_Crud.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
